@@ -3,6 +3,7 @@
 Created WebSocket API for updating quotes on client side every 5 secs using Node.js.
 
 ## Demo
+![alt text](https://github.com/bhavyakaria/quote-changer/blob/master/assets/imgs/demo.gif "Demo")
 
 ## Libraries Used
 
