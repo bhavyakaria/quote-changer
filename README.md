@@ -1,4 +1,4 @@
-# quote-changer
+# quote-changer-websockets
 
 Created WebSocket API for updating quotes on client side every 5 secs using Node.js.
 
